@@ -27,6 +27,8 @@ Android app that captures camera frames, processes them in native C++ using Open
 - Consider using `SurfaceTexture` + `Surface` + `GL_EXT` pathways to render camera frames directly to GL textures to avoid copying.
 
 #output
+
+
 ![Original Synthetic Frame](docs/demo/original_synthetic_frame.png)
 ![Processed_frame](docs/demo/processed_frame.png)
-![Simple_Web_Viewer](/workspaces/flamapp_assessment/docs/demo/simple_web_viewer.png)
+![Simple_Web_Viewer](docs/demo/simple_web_viewer.png)
