@@ -29,6 +29,6 @@ Android app that captures camera frames, processes them in native C++ using Open
 ## Output
 
 
-![Original Synthetic Frame]  (docs/demo/original_synthetic_frame.png)
-![Processed_frame]  (docs/demo/processed_frame.png)
-![Simple_Web_Viewer]  (docs/demo/simple_web_viewer.png)
+![Original Synthetic Frame](docs/demo/original_synthetic_frame.png)
+![Processed_frame](docs/demo/processed_frame.png)
+![Simple_Web_Viewer](docs/demo/simple_web_viewer.png)
